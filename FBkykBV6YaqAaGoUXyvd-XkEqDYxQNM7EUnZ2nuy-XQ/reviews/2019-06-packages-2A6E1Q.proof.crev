@@ -63,3 +63,25 @@ comment: "I don't really know Windows well enough to dive into that part. It loo
 T73HliALjf774cPXr-FTSq9IMHFRK6cAwA52U0XyJNOKq43xo27sEQjuQUo-Ed0CjLdcjJBihJXWe57vrRLDAA
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-06-21T21:02:38.300476706+02:00"
+from:
+  id-type: crev
+  id: FBkykBV6YaqAaGoUXyvd-XkEqDYxQNM7EUnZ2nuy-XQ
+  url: "https://github.com/Canop/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: minimad
+  version: 0.3.4
+  revision: a871b5a052bd1d57a7e9f31e297b70e8bae16b54
+  digest: YPCQ8HiEq_gB-rBZuwyZ11931q-GVne6iiGKfAqoXbE
+review:
+  thoroughness: high
+  understanding: high
+  rating: positive
+comment: As the author I feel positive enough to say this is a good quality crate - but the very limited set of features restricts its direct usage to very specific cases
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+wRtTnUI0HKc7p7rJNo3SjFeoley-A92nr_o97hgTj6Vz0vHxEdJgubsf_mmuuSjU7oy8J06rXZGAcImsaQCCCg
+-----END CREV PACKAGE REVIEW-----
+
