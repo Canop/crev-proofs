@@ -85,3 +85,25 @@ comment: As the author I feel positive enough to say this is a good quality crat
 wRtTnUI0HKc7p7rJNo3SjFeoley-A92nr_o97hgTj6Vz0vHxEdJgubsf_mmuuSjU7oy8J06rXZGAcImsaQCCCg
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-06-21T21:06:03.361071445+02:00"
+from:
+  id-type: crev
+  id: FBkykBV6YaqAaGoUXyvd-XkEqDYxQNM7EUnZ2nuy-XQ
+  url: "https://github.com/Canop/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: is_executable
+  version: 0.1.2
+  revision: 085b0cf504910d87ab7a724e07720cfe2049a2ad
+  digest: fCEaaSYfWPrzQpKwAG3THviJeU0td2AoJy1XBxDQs60
+review:
+  thoroughness: medium
+  understanding: low
+  rating: positive
+comment: "the crate is short and simple. I'm not 100% sure of all details of the windows checks, though (the linux checks are trivial)"
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+Iaz1uU7rPocGUIuQnZZRBKvL-PCZjnhLFQtTIzRoLa2kl7P6aRFqee0Pe7KYmFuRosnborjZ-9yIRF4iRuh5Dw
+-----END CREV PACKAGE REVIEW-----
+
