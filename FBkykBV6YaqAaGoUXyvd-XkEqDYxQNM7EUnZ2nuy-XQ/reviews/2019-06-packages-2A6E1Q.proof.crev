@@ -19,3 +19,25 @@ review:
 JVjTIsxCbaKe5AhLgvu7uDg3RjtW1xh9iIxjz-HP5mAnbj03WBUrIKVzLgfpyXYu8dltYtC8Ps9g-QveC6R8Bg
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-06-21T18:09:58.823645807+02:00"
+from:
+  id-type: crev
+  id: FBkykBV6YaqAaGoUXyvd-XkEqDYxQNM7EUnZ2nuy-XQ
+  url: "https://github.com/Canop/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: lazy_static
+  version: 1.3.0
+  revision: 03f62910a94886987cdb686c7509bbdc846481e3
+  digest: 21bjQkc4fD-Kvjb0xv1fN7M4oaembbxoEDirmvOQwbg
+review:
+  thoroughness: low
+  understanding: medium
+  rating: positive
+comment: "It looks OK... it's a little hard to check all the possible ways such a code could be flawed, though."
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+p2e1Eys72usMAQtregE6Ikmw2asCVxb4xgUivVw9wFP426iptchKfD3bVKTFsXGkUIJuKZerJcmIhnVeNNs4DQ
+-----END CREV PACKAGE REVIEW-----
+
