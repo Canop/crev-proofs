@@ -20,3 +20,23 @@ comment: "I'm the author. This crate is very simple and includes nothing dangere
 L8BDpjekGfmMxyMGHx2UtYUpRsZS87UD_jbmWauoj2xO7lfW-qJp28YogNW0K1vlqtlADpr8Ui3dI64Cgu0JDg
 -----END CREV PACKAGE REVIEW-----
 
+-----BEGIN CREV PACKAGE REVIEW-----
+version: -1
+date: "2019-07-05T17:37:12.632085224+02:00"
+from:
+  id-type: crev
+  id: FBkykBV6YaqAaGoUXyvd-XkEqDYxQNM7EUnZ2nuy-XQ
+  url: "https://github.com/Canop/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: num-traits
+  version: 0.2.6
+  digest: FYqj2-tzDNLn-LOmqHSkd7S3rOcijjVxt_ZOZ7rUxkw
+review:
+  thoroughness: low
+  understanding: low
+  rating: positive
+-----BEGIN CREV PACKAGE REVIEW SIGNATURE-----
+cvREjNLlrrBCHiTdLbPiQU0mLiCmcsqFdlQuoZ9dYS6BhjX54OtWLIiAarKDgJ9Nc_HzIHAlGLO-DsJK885MDA
+-----END CREV PACKAGE REVIEW-----
+
